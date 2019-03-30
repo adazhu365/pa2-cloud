@@ -1,0 +1,12 @@
+{
+ "AWSEBDockerrunVersion": "1",
+ "Image": {
+ "Name": "401575195503.dkr.ecr.us-east-1.amazonaws.com/autograde:latest",
+ "Update": "true"
+ },
+ "Ports": [
+ {
+ "ContainerPort": "8080"
+ }
+ ]
+} 
